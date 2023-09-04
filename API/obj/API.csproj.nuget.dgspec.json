@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\API\\API.csproj": {}
+    "c:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\API\\API.csproj": {
+    "c:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\API\\API.csproj",
+        "projectUniqueName": "c:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\API\\API.csproj",
+        "projectPath": "c:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\API\\API.csproj",
         "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\API\\obj\\",
+        "outputPath": "c:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -27,11 +27,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Aplication\\Aplication.csproj": {
-                "projectPath": "C:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Aplication\\Aplication.csproj"
+              "c:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Aplication\\Aplication.csproj": {
+                "projectPath": "c:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Aplication\\Aplication.csproj"
               },
-              "C:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Seguridad\\Seguridad.csproj": {
-                "projectPath": "C:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Seguridad\\Seguridad.csproj"
+              "c:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Seguridad\\Seguridad.csproj": {
+                "projectPath": "c:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Seguridad\\Seguridad.csproj"
               }
             }
           }
@@ -100,14 +100,14 @@
         }
       }
     },
-    "C:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Aplication\\Aplication.csproj": {
+    "c:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Aplication\\Aplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Aplication\\Aplication.csproj",
+        "projectUniqueName": "c:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Aplication\\Aplication.csproj",
         "projectName": "Aplication",
-        "projectPath": "C:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Aplication\\Aplication.csproj",
+        "projectPath": "c:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Aplication\\Aplication.csproj",
         "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Aplication\\obj\\",
+        "outputPath": "c:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Aplication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -122,11 +122,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Dominio\\Dominio.csproj"
+              "c:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Dominio\\Dominio.csproj": {
+                "projectPath": "c:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Dominio\\Dominio.csproj"
               },
-              "C:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Persistencia\\Persistencia.csproj": {
-                "projectPath": "C:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Persistencia\\Persistencia.csproj"
+              "c:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Persistencia\\Persistencia.csproj": {
+                "projectPath": "c:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Persistencia\\Persistencia.csproj"
               }
             }
           }
@@ -160,14 +160,14 @@
         }
       }
     },
-    "C:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Dominio\\Dominio.csproj": {
+    "c:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "c:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Dominio\\Dominio.csproj",
+        "projectPath": "c:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Dominio\\obj\\",
+        "outputPath": "c:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -227,14 +227,14 @@
         }
       }
     },
-    "C:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Persistencia\\Persistencia.csproj": {
+    "c:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Persistencia\\Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Persistencia\\Persistencia.csproj",
+        "projectUniqueName": "c:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Persistencia\\Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "C:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Persistencia\\Persistencia.csproj",
+        "projectPath": "c:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Persistencia\\Persistencia.csproj",
         "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Persistencia\\obj\\",
+        "outputPath": "c:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -249,8 +249,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Dominio\\Dominio.csproj"
+              "c:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Dominio\\Dominio.csproj": {
+                "projectPath": "c:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Dominio\\Dominio.csproj"
               }
             }
           }
@@ -294,14 +294,14 @@
         }
       }
     },
-    "C:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Seguridad\\Seguridad.csproj": {
+    "c:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Seguridad\\Seguridad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Seguridad\\Seguridad.csproj",
+        "projectUniqueName": "c:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Seguridad\\Seguridad.csproj",
         "projectName": "Seguridad",
-        "projectPath": "C:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Seguridad\\Seguridad.csproj",
+        "projectPath": "c:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Seguridad\\Seguridad.csproj",
         "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Seguridad\\obj\\",
+        "outputPath": "c:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Seguridad\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -316,8 +316,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Aplication\\Aplication.csproj": {
-                "projectPath": "C:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Aplication\\Aplication.csproj"
+              "c:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Aplication\\Aplication.csproj": {
+                "projectPath": "c:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Aplication\\Aplication.csproj"
               }
             }
           }
