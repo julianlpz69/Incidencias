@@ -17,3 +17,22 @@ C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\Incidencias\Seguridad\obj\Debug
 C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\Incidencias\Seguridad\obj\Debug\net7.0\refint\Seguridad.dll
 C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\Incidencias\Seguridad\obj\Debug\net7.0\Seguridad.pdb
 C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\Incidencias\Seguridad\obj\Debug\net7.0\ref\Seguridad.dll
+C:\Users\APT01-51\Desktop\CshartRepos\Incidencias\Seguridad\bin\Debug\net7.0\Seguridad.deps.json
+C:\Users\APT01-51\Desktop\CshartRepos\Incidencias\Seguridad\bin\Debug\net7.0\Seguridad.dll
+C:\Users\APT01-51\Desktop\CshartRepos\Incidencias\Seguridad\bin\Debug\net7.0\Seguridad.pdb
+C:\Users\APT01-51\Desktop\CshartRepos\Incidencias\Seguridad\bin\Debug\net7.0\Aplication.dll
+C:\Users\APT01-51\Desktop\CshartRepos\Incidencias\Seguridad\bin\Debug\net7.0\Dominio.dll
+C:\Users\APT01-51\Desktop\CshartRepos\Incidencias\Seguridad\bin\Debug\net7.0\Persistencia.dll
+C:\Users\APT01-51\Desktop\CshartRepos\Incidencias\Seguridad\bin\Debug\net7.0\Aplication.pdb
+C:\Users\APT01-51\Desktop\CshartRepos\Incidencias\Seguridad\bin\Debug\net7.0\Dominio.pdb
+C:\Users\APT01-51\Desktop\CshartRepos\Incidencias\Seguridad\bin\Debug\net7.0\Persistencia.pdb
+C:\Users\APT01-51\Desktop\CshartRepos\Incidencias\Seguridad\obj\Debug\net7.0\Seguridad.csproj.AssemblyReference.cache
+C:\Users\APT01-51\Desktop\CshartRepos\Incidencias\Seguridad\obj\Debug\net7.0\Seguridad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APT01-51\Desktop\CshartRepos\Incidencias\Seguridad\obj\Debug\net7.0\Seguridad.AssemblyInfoInputs.cache
+C:\Users\APT01-51\Desktop\CshartRepos\Incidencias\Seguridad\obj\Debug\net7.0\Seguridad.AssemblyInfo.cs
+C:\Users\APT01-51\Desktop\CshartRepos\Incidencias\Seguridad\obj\Debug\net7.0\Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\APT01-51\Desktop\CshartRepos\Incidencias\Seguridad\obj\Debug\net7.0\Seguridad.csproj.CopyComplete
+C:\Users\APT01-51\Desktop\CshartRepos\Incidencias\Seguridad\obj\Debug\net7.0\Seguridad.dll
+C:\Users\APT01-51\Desktop\CshartRepos\Incidencias\Seguridad\obj\Debug\net7.0\refint\Seguridad.dll
+C:\Users\APT01-51\Desktop\CshartRepos\Incidencias\Seguridad\obj\Debug\net7.0\Seguridad.pdb
+C:\Users\APT01-51\Desktop\CshartRepos\Incidencias\Seguridad\obj\Debug\net7.0\ref\Seguridad.dll

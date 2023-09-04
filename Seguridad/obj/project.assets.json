@@ -5681,19 +5681,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\julia\\.nuget\\packages\\": {}
+    "C:\\Users\\APT01-51\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Seguridad\\Seguridad.csproj",
+      "projectUniqueName": "C:\\Users\\APT01-51\\Desktop\\CshartRepos\\Incidencias\\Seguridad\\Seguridad.csproj",
       "projectName": "Seguridad",
-      "projectPath": "c:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Seguridad\\Seguridad.csproj",
-      "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Seguridad\\obj\\",
+      "projectPath": "C:\\Users\\APT01-51\\Desktop\\CshartRepos\\Incidencias\\Seguridad\\Seguridad.csproj",
+      "packagesPath": "C:\\Users\\APT01-51\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\APT01-51\\Desktop\\CshartRepos\\Incidencias\\Seguridad\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\APT01-51\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -5705,8 +5705,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "c:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Aplication\\Aplication.csproj": {
-              "projectPath": "c:\\Users\\julia\\OneDrive\\Escritorio\\Nueva carpeta\\Incidencias\\Aplication\\Aplication.csproj"
+            "C:\\Users\\APT01-51\\Desktop\\CshartRepos\\Incidencias\\Aplication\\Aplication.csproj": {
+              "projectPath": "C:\\Users\\APT01-51\\Desktop\\CshartRepos\\Incidencias\\Aplication\\Aplication.csproj"
             }
           }
         }
@@ -5742,7 +5742,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

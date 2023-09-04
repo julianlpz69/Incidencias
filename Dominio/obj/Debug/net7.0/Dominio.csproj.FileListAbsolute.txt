@@ -10,3 +10,15 @@ C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\Incidencias\Dominio\obj\Debug\n
 C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\Incidencias\Dominio\obj\Debug\net7.0\refint\Dominio.dll
 C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\Incidencias\Dominio\obj\Debug\net7.0\Dominio.pdb
 c:\Users\julia\OneDrive\Escritorio\Nueva carpeta\Incidencias\Dominio\obj\Debug\net7.0\ref\Dominio.dll
+C:\Users\APT01-51\Desktop\CshartRepos\Incidencias\Dominio\bin\Debug\net7.0\Dominio.deps.json
+C:\Users\APT01-51\Desktop\CshartRepos\Incidencias\Dominio\bin\Debug\net7.0\Dominio.dll
+C:\Users\APT01-51\Desktop\CshartRepos\Incidencias\Dominio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\APT01-51\Desktop\CshartRepos\Incidencias\Dominio\obj\Debug\net7.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\APT01-51\Desktop\CshartRepos\Incidencias\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APT01-51\Desktop\CshartRepos\Incidencias\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\APT01-51\Desktop\CshartRepos\Incidencias\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\Users\APT01-51\Desktop\CshartRepos\Incidencias\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\APT01-51\Desktop\CshartRepos\Incidencias\Dominio\obj\Debug\net7.0\Dominio.dll
+C:\Users\APT01-51\Desktop\CshartRepos\Incidencias\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+C:\Users\APT01-51\Desktop\CshartRepos\Incidencias\Dominio\obj\Debug\net7.0\Dominio.pdb
+C:\Users\APT01-51\Desktop\CshartRepos\Incidencias\Dominio\obj\Debug\net7.0\ref\Dominio.dll

@@ -1,5 +1,6 @@
 using Dominio.Entities;
 using Dominio.Interfaces;
+using iText.Kernel.Geom;
 using Microsoft.EntityFrameworkCore;
 using Persistencia.Data;
 
@@ -18,6 +19,21 @@ namespace Aplication.Repository
             return await _contetx.Paises
                             .Include(p => p.Departamentos)
                             .ToListAsync();
+        }
+
+        public override async Task<(int totalRegistros, IEnumerable<Pais> registros)> GetAllAsync(int pageIndex, int pageSize, string search){
+            var query = _contetx.Paises as IQueryable<Pais>;
+            if(!String.IsNullOrEmpty(search)){
+                query = query.Where(p => p.NombrePais.ToLower().Contains(search));
+            }
+            query = query.OrderBy(p => p.Id);
+            var totalRegistros = await query.CountAsync();
+            var registros = await query
+                                    .Include(p => p.Departamentos)
+                                    .Skip((pageIndex - 1) * pageSize)
+                                    .Take(pageSize)
+                                    .ToListAsync();
+            return (totalRegistros, registros); 
         }
 
     }

@@ -42,7 +42,7 @@ namespace API.Extensions
                         new RateLimitRule
                         {
                             Endpoint = "*",
-                            Period = "10s",
+                            Period = "100s",
                             Limit = 2
                         }
                     };
@@ -56,7 +56,10 @@ namespace API.Extensions
 
                 options.DefaultApiVersion = new ApiVersion(1,0);
                 options.AssumeDefaultVersionWhenUnspecified = true;
-                options.ApiVersionReader = new QueryStringApiVersionReader("ver");
+                options.ApiVersionReader = ApiVersionReader.Combine(
+                    new QueryStringApiVersionReader("ver"),
+                    new HeaderApiVersionReader("X-Version")
+                );
             });
         }
 
